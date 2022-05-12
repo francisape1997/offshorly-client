@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Setup local env
+- Create file named .env.local
+- Create variable named VITE_APP_API_BASE_URL and assign your api hostname url e.g VITE_APP_API_BASE_URL=test.dev
